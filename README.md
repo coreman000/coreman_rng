@@ -1,1 +1,1 @@
-# drng_
+# coreman_rng
